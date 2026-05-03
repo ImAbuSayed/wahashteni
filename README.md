@@ -11,6 +11,7 @@
 | Title | Wahashteni |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
 | Lyric Writing Date | April 23, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/wahashteni/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
